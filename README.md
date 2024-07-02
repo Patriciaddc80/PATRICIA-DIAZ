@@ -1,15 +1,6 @@
-# PATRICIA DIAZ
+# MI PERFIL PROFESIONAL | Especialista en Diseño web
 
-## <span style="color:blue">MI PERFIL PROFESIONAL </span>
-
-## <p align="center"><span style="color:blue;"></span></p>
-![](https://github.com/Patriciaddc80/PATRICIA-DIAZ/assets/98458936/b31ff5d3-ce10-4174-9655-85b980634afe)
-
-
-
-### MI PERFIL PROFESIONAL | Especialista en Diseño web
-
-## <span style="color:blue">Sobre Mí</span>
+## Sobre Mí
 
 ¡Hola! 👋 Soy un desarrollador apasionado por la tecnología y el desarrollo de software, con un enfoque particular en el diseño frontend. 🎨 Mi misión es crear interfaces de usuario que no solo sean bonitas 😍, sino también funcionales y fáciles de usar.
 
@@ -22,69 +13,70 @@ Sigo aprendiendo y manteniéndome al día con las últimas tendencias en el mund
 Mi pasión por el diseño y el frontend es mi superpoder, ¡y estoy emocionado por embarcarme en nuevos proyectos que desafíen mis habilidades y me permitan crecer como desarrollador! 🚀
 
 ## Proyectos Destacados
-- [Proyecto 1](enlace_al_proyecto)
-- [Proyecto 2](enlace_al_proyecto)
-- [Proyecto 3](enlace_al_proyecto)
 
-  ## Habilidades
-- **Lenguajes de Programación y marcado**:
+### Proyecto 1
+
+Descripción breve del Proyecto 1.
+
+### Proyecto 2
+
+Descripción breve del Proyecto 2.
+
+### Proyecto 3
+
+Descripción breve del Proyecto 3.
+
+## Habilidades
+
+**Lenguajes de Programación y marcado:**
 
 - HTML
 - CSS
-- JavaScript <br>
+- JavaScript
 
-- **Frameworks y Librerías de JavaScript**:
+**Frameworks y Librerías de JavaScript:**
 
 - React
-- Vue.js <br>
+- Vue.js
 
-- **Control de Versiones**:
+**Control de Versiones:**
 
-- Git <br>
+- Git
 
-- **Herramientas de Build y Automatización**:
+**Herramientas de Build y Automatización:**
 
-- NPM <br>
+- NPM
 
-- **Frameworks CSS**:
+**Frameworks CSS:**
 
 - Bootstrap
 - Tailwind CSS
-- MUI - Material design <br>
+- MUI - Material Design
 
+**Diseño Responsivo:**
 
-- **Diseño Responsivo**:
-- Responsive Design <br>
+- Responsive Design
 
-  
 ## Educación
-- NETMIND - CFGS  - 2020
 
+- **NETMIND** - CFGS - 2020
 
 ## Experiencia
 
-Marketing online, Creación Newsletters Península 
-Marketing en motores de búsqueda (SEM) y Desarrollo front end
+**Marketing online, Creación Newsletters Península Marketing en motores de búsqueda (SEM) y Desarrollo front end**
 
-MEDIA MARKT - SATURN GROEPMEDIA MARKT - SATURN GROEP
-2022 - ene. 2024 · 2 años 
-Poligono mas blau, Barcelona
+- **MEDIA MARKT - SATURN GROEP**
+  - 2022 - ene. 2024 · 2 años
+  - Poligono Mas Blau, Barcelona
 
 ## Contacto
 
-- Email: patriciaddc80@gmail.com
-- LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/patriciadiaz/)
-- Sitio web personal: [EN FASE DE DESARROLLO](https://www.tusitio.com)
-- Dirección : BARCELONA
+- **Email:** [patriciaddc80@gmail.com](mailto:patriciaddc80@gmail.com)
+- **LinkedIn:** [Perfil de LinkedIn](URL_DE_TU_PERFIL_LINKEDIN)
+- **Sitio web personal:** EN FASE DE DESARROLLO
+- **Dirección:** Barcelona
 
 ## Certificaciones
 
- ![certificado de desarrollo de aplicaciones con tecnologia web](https://github.com/Patriciaddc80/PATRICIA-DIAZ/assets/98458936/bd75046d-cfc2-48a8-a61c-7f966f09e00a)
- ![Front End Web Development](https://github.com/Patriciaddc80/PATRICIA-DIAZ/assets/98458936/e33a0358-48a0-40d2-8590-b7cc19e5ca8e)
-
-
-## Proyectos Destacados
-- [MiPortafolio](https://github.com/mi-portafolio):En fase de desarrollo.
-
-
-
+- Certificado de Desarrollo de Aplicaciones con Tecnología Web Front End Web Development
+![Certificado](URL_DE_LA_IMAGEN_DEL_CERTIFICADO)
