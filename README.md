@@ -7,7 +7,7 @@
 
 
 
-### FRONTEND DEVELOPER | Especialista en Diseño web
+### MI PERFIL PROFESIONAL | Especialista en Diseño web
 
 ## <span style="color:blue">Sobre Mí</span>
 
