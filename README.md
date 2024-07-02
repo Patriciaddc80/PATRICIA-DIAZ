@@ -79,4 +79,6 @@ Descripción breve del Proyecto 3.
 ## Certificaciones
 
 - Certificado de Desarrollo de Aplicaciones con Tecnología Web Front End Web Development
+
 ![Certificado](URL_DE_LA_IMAGEN_DEL_CERTIFICADO)
+
