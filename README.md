@@ -1,3 +1,5 @@
+Aquí tienes el perfil profesional actualizado con las herramientas de diseño y organización de trabajo incluidas:
+
 # MI PERFIL PROFESIONAL | Especialista en Diseño web
 
 <div align="center">
@@ -59,6 +61,12 @@ Mi pasión por el diseño y el frontend es mi superpoder, ¡y estoy emocionado p
 ### Diseño Responsivo:
 - Responsive Design
 
+### Herramientas de Diseño:
+- Figma
+
+### Organización de Trabajo:
+- Jira
+
 ---
 
 ## Educación
@@ -97,4 +105,3 @@ Mi pasión por el diseño y el frontend es mi superpoder, ¡y estoy emocionado p
 # 🌟¡Gracias por visitar mi perfil!🌟
 
 ![Perfil](URL_DE_TU_IMAGEN_DE_PERFIL)
-
