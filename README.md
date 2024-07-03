@@ -4,7 +4,6 @@
     <h1>MI PERFIL PROFESIONAL | Especialista en Diseño web</h1>
 </div>
 
-
 <div align="center">
     <img src="https://github.com/Patriciaddc80/PATRICIA-DIAZ/assets/98458936/f886dd2c-62bd-4926-b883-bde1d5f9d567" alt="foto-perfil" style="width: 50%;">
 </div>
@@ -25,17 +24,20 @@ Mi pasión por el diseño y el frontend es mi superpoder, ¡y estoy emocionado p
 
 ## Proyectos Destacados
 
-### Proyecto 1
-
-**Descripción breve del Proyecto 1.**
-
-### Proyecto 2
-
-**Descripción breve del Proyecto 2.**
-
-### Proyecto 3
-
-**Descripción breve del Proyecto 3.**
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
+    <div style="border: 1px solid #ddd; padding: 20px;">
+        <h3>Proyecto 1</h3>
+        <p>Descripción breve del Proyecto 1.</p>
+    </div>
+    <div style="border: 1px solid #ddd; padding: 20px;">
+        <h3>Proyecto 2</h3>
+        <p>Descripción breve del Proyecto 2.</p>
+    </div>
+    <div style="border: 1px solid #ddd; padding: 20px;">
+        <h3>Proyecto 3</h3>
+        <p>Descripción breve del Proyecto 3.</p>
+    </div>
+</div>
 
 ---
 
