@@ -1,6 +1,7 @@
-Aquí tienes el perfil profesional actualizado con las herramientas de diseño y organización de trabajo incluidas:
-
+<div align="center">
 # MI PERFIL PROFESIONAL | Especialista en Diseño web
+</div>
+
 
 <div align="center">
     <img src="https://github.com/Patriciaddc80/PATRICIA-DIAZ/assets/98458936/f886dd2c-62bd-4926-b883-bde1d5f9d567" alt="foto-perfil" style="width: 50%;">
