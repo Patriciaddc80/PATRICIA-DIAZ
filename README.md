@@ -1,7 +1,7 @@
 
 
-<div align="center">  #  MI PERFIL PROFESIONAL | Especialista en Diseño web
-</div>
+  #  MI PERFIL PROFESIONAL | Especialista en Diseño web
+
 
 
 <div align="center">
