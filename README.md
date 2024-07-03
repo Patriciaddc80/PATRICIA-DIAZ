@@ -1,5 +1,9 @@
 # MI PERFIL PROFESIONAL | Especialista en Diseño web
 
+<div align="center">
+    <img src="https://github.com/Patriciaddc80/PATRICIA-DIAZ/assets/98458936/f886dd2c-62bd-4926-b883-bde1d5f9d567" alt="foto-perfil" style="width: 50%;">
+</div>
+
 ## Sobre Mí
 
 ¡Hola! 👋 Soy un desarrollador apasionado por la tecnología y el desarrollo de software, con un enfoque particular en el diseño frontend. 🎨 Mi misión es crear interfaces de usuario que no solo sean bonitas 😍, sino también funcionales y fáciles de usar.
@@ -12,62 +16,66 @@ Sigo aprendiendo y manteniéndome al día con las últimas tendencias en el mund
 
 Mi pasión por el diseño y el frontend es mi superpoder, ¡y estoy emocionado por embarcarme en nuevos proyectos que desafíen mis habilidades y me permitan crecer como desarrollador! 🚀
 
+---
+
 ## Proyectos Destacados
 
 ### Proyecto 1
 
-Descripción breve del Proyecto 1.
+**Descripción breve del Proyecto 1.**
 
 ### Proyecto 2
 
-Descripción breve del Proyecto 2.
+**Descripción breve del Proyecto 2.**
 
 ### Proyecto 3
 
-Descripción breve del Proyecto 3.
+**Descripción breve del Proyecto 3.**
+
+---
 
 ## Habilidades
 
-**Lenguajes de Programación y marcado:**
-
+### Lenguajes de Programación y Marcado:
 - HTML
 - CSS
 - JavaScript
 
-**Frameworks y Librerías de JavaScript:**
-
+### Frameworks y Librerías de JavaScript:
 - React
 - Vue.js
 
-**Control de Versiones:**
-
+### Control de Versiones:
 - Git
 
-**Herramientas de Build y Automatización:**
-
+### Herramientas de Build y Automatización:
 - NPM
 
-**Frameworks CSS:**
-
+### Frameworks CSS:
 - Bootstrap
 - Tailwind CSS
 - MUI - Material Design
 
-**Diseño Responsivo:**
-
+### Diseño Responsivo:
 - Responsive Design
+
+---
 
 ## Educación
 
 - **NETMIND** - CFGS - 2020
 
+---
+
 ## Experiencia
 
-**Marketing online, Creación Newsletters Península Marketing en motores de búsqueda (SEM) y Desarrollo front end**
+**Marketing online, Creación Newsletters, Península Marketing en motores de búsqueda (SEM) y Desarrollo front end**
 
-- **MEDIA MARKT - SATURN GROEP**
-  - 2022 - ene. 2024 · 2 años
-  - Poligono Mas Blau, Barcelona
+### MEDIA MARKT - SATURN GROEP
+- **Periodo:** 2022 - ene. 2024 · 2 años
+- **Ubicación:** Poligono Mas Blau, Barcelona
+
+---
 
 ## Contacto
 
@@ -76,9 +84,17 @@ Descripción breve del Proyecto 3.
 - **Sitio web personal:** EN FASE DE DESARROLLO
 - **Dirección:** Barcelona
 
+---
+
 ## Certificaciones
 
-- Certificado de Desarrollo de Aplicaciones con Tecnología Web Front End Web Development
+- **Certificado de Desarrollo de Aplicaciones con Tecnología Web Front End Web Development**
 
 ![Certificado](URL_DE_LA_IMAGEN_DEL_CERTIFICADO)
+
+---
+
+# 🌟¡Gracias por visitar mi perfil!🌟
+
+![Perfil](URL_DE_TU_IMAGEN_DE_PERFIL)
 
