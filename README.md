@@ -1,7 +1,8 @@
 
 
-                    #  MI PERFIL PROFESIONAL | Especialista en Diseño web
-
+<div style="background-color: #f0f0f0; padding: 20px; text-align: center;">
+    <h1>MI PERFIL PROFESIONAL | Especialista en Diseño web</h1>
+</div>
 
 
 <div align="center">
