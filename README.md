@@ -67,11 +67,20 @@ Mi pasión por el diseño y el frontend es mi superpoder, ¡y estoy emocionado p
 
 ### Herramientas de Diseño:
 - Figma
+- -Canva
 
 ### Organización de Trabajo:
 - Jira
 
 ---
+
+### Otros conocimientos
+
+- Seo
+- Sem
+- Wordpress
+- Prestashop
+- Herramientas de posicionamiento web como Google analitic y Semrush
 
 ## Educación
 
@@ -92,7 +101,7 @@ Mi pasión por el diseño y el frontend es mi superpoder, ¡y estoy emocionado p
 ## Contacto
 
 - **Email:** [patriciaddc80@gmail.com](mailto:patriciaddc80@gmail.com)
-- **LinkedIn:** [Perfil de LinkedIn](URL_DE_TU_PERFIL_LINKEDIN)
+- **LinkedIn:** [PATRICIA DIAZ](https://www.linkedin.com/in/patriciadiaz/)
 - **Sitio web personal:** EN FASE DE DESARROLLO
 - **Dirección:** Barcelona
 
@@ -100,13 +109,16 @@ Mi pasión por el diseño y el frontend es mi superpoder, ¡y estoy emocionado p
 
 ## Certificaciones
 
-- **Certificado de Desarrollo de Aplicaciones con Tecnología Web Front End Web Development**
+- **Desarrollo de Aplicaciones con Tecnología Web (FULLSTACK)**
+![Desarrollo de aplicaciones con tecnologia web](https://github.com/Patriciaddc80/PATRICIA-DIAZ/assets/98458936/a3ddacd8-09fd-408b-9e6c-2f8aeccb16ff)
 
-![Certificado](URL_DE_LA_IMAGEN_DEL_CERTIFICADO)
+
+- **Frontend developer con vue.js**
+![Captura de pantalla_2-7-2024_113314_](https://github.com/Patriciaddc80/PATRICIA-DIAZ/assets/98458936/d2c604bf-9218-4281-b741-090a6001e3cd)
 
 ---
 
 # 🌟¡Gracias por visitar mi perfil!🌟
 
-![Perfil](URL_DE_TU_IMAGEN_DE_PERFIL)
+
 
