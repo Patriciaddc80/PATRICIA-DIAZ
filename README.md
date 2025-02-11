@@ -64,8 +64,9 @@ Mi pasión por el diseño y el frontend es mi superpoder, ¡y estoy emocionada p
     <div style="border: 1px solid #ddd; padding: 20px;">
         <h3>Administrador de productos</h3>
         <p>Aplicación creada con html, css, tailwind y js, gestiona de manera fácil y sencilla los artículos de una tienda</p>
-      [![administrador de productos](![Captura de pantalla 2025-02-10 110921](https://github.com/user-attachments/assets/c9674ad3-adec-4e64-944a-49d40d68ef15)
-](https://productmanagerpat.vercel.app/)
+     <img src=![Captura de pantalla 2025-02-10 110921](https:](https://productmanagerpat.vercel.app/)
+         alt="foto-perfil" 
+         style="width: 50%;">
     </div>
     <div style="border: 1px solid #ddd; padding: 20px;">
         <h3>Mi portfolio</h3>
