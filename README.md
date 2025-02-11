@@ -1,7 +1,8 @@
 <div style="background-color: #f0f0f0; padding: 20px; text-align: center;">
     <h1>HOLA!👋 <br> Me llamo Patricia Díaz</h1>
      <h2>Web Developer | Diseñadora UX/UI</h2>
-     ![Captura de pantalla 2025-02-10 110921](https://github.com/user-attachments/assets/195aadeb-95b0-44dd-b3e1-4a6feda65bf6)
+  ![Captura de pantalla 2024-07-02 115501](https://github.com/user-attachments/assets/1ded882c-9408-447c-960c-d5a3e25295cd)
+
 
 ## Quien soy
 
