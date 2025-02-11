@@ -1,108 +1,6 @@
-
-
-
-## Proyectos Destacados
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
-    <div style="border: 1px solid #ddd; padding: 20px;">
-        <h3>Gestor de productos</h3>
-        <p>Aplicación creada con html, css, tailwind y js, gestiona de manera fácil y sencilla los artículos de una tienda</p>
-    </div>
-    <div style="border: 1px solid #ddd; padding: 20px;">
-        <h3>Mi portafolio</h3>
-        <p>En desarrollo</p>
-    </div>
-    <div style="border: 1px solid #ddd; padding: 20px;">
-        <h3>Nebulon</h3>
-        <p>En desarrollo</p>
-    </div>
-</div>
-
----
-
-## Habilidades
-
-### Lenguajes de Programación y Marcado:
-- HTML
-- CSS
-- JavaScript
-
-### Frameworks y Librerías de JavaScript:
-- React
-- Vue.js
-
-### Control de Versiones:
-- Git
-
-### Herramientas de Build y Automatización:
-- NPM
-
-### Frameworks CSS:
-- Bootstrap
-- Tailwind CSS
-- MUI - Material Design
-
-### Diseño Responsivo:
-- Responsive Design
-
-### Herramientas de Diseño:
-- Figma
-- -Canva
-
-### Organización de Trabajo:
-- Jira
-
----
-
-### Otros conocimientos
-
-- Seo
-- Sem
-- Wordpress
-- Prestashop
-- Herramientas de posicionamiento web como Google analitic y Semrush
-
-## Educación
-
-- **NETMIND** - CFGS - 2020
-
----
-
-## Experiencia
-
-**Marketing online, Creación Newsletters, Península Marketing en motores de búsqueda (SEM) y Desarrollo front end**
-
-### MEDIA MARKT - SATURN GROEP
-- **Periodo:** 2022 - ene. 2024 · 2 años
-- **Ubicación:** Poligono Mas Blau, Barcelona
-
----
-
-## Contacto
-
-- **Email:** [patriciaddc80@gmail.com](mailto:patriciaddc80@gmail.com)
-- **LinkedIn:** [PATRICIA DIAZ](https://www.linkedin.com/in/patriciadiaz/)
-- **Sitio web personal:** EN FASE DE DESARROLLO
-- **Dirección:** Barcelona
-
----
-
-## Certificaciones
-
-- **Desarrollo de Aplicaciones con Tecnología Web (FULLSTACK)**
-![Desarrollo de aplicaciones con tecnologia web](https://github.com/Patriciaddc80/PATRICIA-DIAZ/assets/98458936/a3ddacd8-09fd-408b-9e6c-2f8aeccb16ff)
-
-
-- **Frontend developer con vue.js**
-![Captura de pantalla_2-7-2024_113314_](https://github.com/Patriciaddc80/PATRICIA-DIAZ/assets/98458936/d2c604bf-9218-4281-b741-090a6001e3cd)
-
----
-
-# 🌟¡Gracias por visitar mi perfil!🌟
-
 <div style="background-color: #f0f0f0; padding: 20px; text-align: center;">
     <h1>HOLA!👋 <br> Me llamo Patricia Díaz</h1>
-     <h2> Soy Frontend Developer | Diseñadora UX/UI</h2>
+     <h2>Web Developer | Diseñadora UX/UI</h2>
     
 <div align="center">
     <img src="https://github.com/Patriciaddc80/PATRICIA-DIAZ/assets/98458936/f886dd2c-62bd-4926-b883-bde1d5f9d567" 
@@ -112,13 +10,14 @@
 
 ## Quien soy
 
-¡Hola! 👋 Soy un desarrolladora web, apasionado por la tecnología con enfoque particular en el diseño frontend o el diseño de interfaz del usuario. 🎨 Mi misión es crear diseños que no solo sean bonitas 😍, sino también funcionales, fáciles de usar y reflejen en cada una como trabajo y como me inspira lo que hago.
+Soy un desarrolladora web, apasionada por la tecnología con enfoque particular en el diseño frontend o el diseño de interfaz del usuario. 
+🎨 Mi misión es crear diseños que no solo sean bonitos 😍, también funcionales, fáciles de usar, limpios, que dejen un click en cada una de ellas de como hago mi trabajo y como me inspira lo que hago.
 
-Desde que comencé mi carrera, me he sumergido en el mundo del desarrollo web, dominando tecnologías como HTML, CSS y JavaScript. 💻 Disfruto al máximo transformando ideas creativas en productos web interactivos y accesibles. Siempre estoy buscando mejorar mis habilidades para brindar experiencias de usuario increíbles.
+Desde que comencé en este camino, me he sumergido dominando tecnologías como HTML, CSS y JavaScript. 💻 Disfruto al máximo transformando ideas creativas en productos web interactivos y accesibles. Siempre estoy buscando mejorar mis habilidades para brindar experiencias de usuario increíbles.
 
-Además de ser un ninja del frontend, tengo habilidades analíticas afiladas para resolver cualquier desafío que se cruce en mi camino. 🔍 Me encanta trabajar en equipos diversos donde puedo aprender y compartir conocimientos.
+Además de ser una ninja del frontend, tengo habilidades analíticas afiladas para resolver cualquier desafío. 🔍 Me encanta trabajar en equipos diversos donde puedo aprender y compartir conocimientos, a la vez trabajar de menera independiente.
 
-Sigo aprendiendo y manteniéndome al día con las últimas tendencias en el mundo del desarrollo frontend. 🌟 Creo firmemente en la importancia de la usabilidad y la accesibilidad en cada proyecto que abordo. Mi objetivo es superar los estándares de calidad y dejar a los usuarios con una sonrisa en la cara. 😄
+Sigo aprendiendo y manteniéndome al día con las últimas tendencias y creo firmemente en la importancia de la usabilidad y la accesibilidad en cada proyecto que abordo. Mi objetivo es superar los estándares de calidad y dejar a los usuarios con una sonrisa en la cara. 😄
 
 Mi pasión por el diseño y el frontend es mi superpoder, ¡y estoy emocionada por embarcarme en nuevos proyectos que desafíen mis habilidades y me permitan crecery colaborar como desarrollador! 🚀
 
@@ -163,12 +62,10 @@ Mi pasión por el diseño y el frontend es mi superpoder, ¡y estoy emocionada p
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
     <div style="border: 1px solid #ddd; padding: 20px;">
-        <h3>Gestor de productos</h3>
+        <h3>Administrador de productos</h3>
         <p>Aplicación creada con html, css, tailwind y js, gestiona de manera fácil y sencilla los artículos de una tienda</p>
        <a href="https://productmanagerpat.vercel.app/" target="_blank">
-    <img src="https://productmanagerpat.vercel.app/" 
-         alt="Product Manager" 
-         style="width: 100%; max-width: 600px; border: 1px solid #ccc; border-radius: 8px;">
+  
 </a>
     </div>
     <div style="border: 1px solid #ddd; padding: 20px;">
@@ -273,3 +170,6 @@ Mi pasión por el diseño y el frontend es mi superpoder, ¡y estoy emocionada p
 - 📧 **Email:** [patriciaddc80@gmail.com](mailto:patriciaddc80@gmail.com)
 - 🌐 **LinkedIn:** [linkedin.com/in/patriciadiaz](https://linkedin.com/in/patriciadiaz)
 - 📍 **Ubicación:** Sant Pol de Mar, BCN
+
+---
+# 🌟¡Gracias por visitar mi perfil!🌟
