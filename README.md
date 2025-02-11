@@ -56,8 +56,16 @@ Mi pasión por el diseño y el frontend es mi superpoder, ¡y estoy emocionada p
 
 ## Proyectos Destacados
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
- <div style="border: 1px sólido #ddd; relleno: 20px;"> <h3>Administrador de productos</h3> <p>Aplicación creada con HTML, CSS, Tailwind y JS, gestiona de manera fácil y sencilla los artículos de una tienda. </p> <!-- Imagen principal --> <a href="https://productmanagerpat.vercel.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/3263d12f-497b-4780-b0fe-e9fd24c3d83c" alt="Administrador de productos" style="width: 50%; radio-borde: 8px;"> </a> </div>
+<div style="border: 1px solid #ddd; padding: 20px; text-align: center; background-color: #f9f9f9; border-radius: 8px;">
+    <h3 style="color: #2c3e50;">Administrador de productos</h3>
+    <p style="color: #34495e;">Aplicación creada con HTML, CSS, Tailwind y JS, gestiona de manera fácil y sencilla los artículos de una tienda.</p>
+    <h4 style="color: #e74c3c;">Haz click en la imagen</h4>
+    <a href="https://productmanagerpat.vercel.app/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/3263d12f-497b-4780-b0fe-e9fd24c3d83c" 
+             alt="Administrador de productos" 
+             style="width: 50%; border-radius: 8px; display: block; margin: 0 auto; transition: transform 0.3s ease;">
+    </a>
+</div>
     <div style="border: 1px solid #ddd; padding: 20px;">
         <h3>Mi portfolio</h3>
         <p>En desarrollo</p>
