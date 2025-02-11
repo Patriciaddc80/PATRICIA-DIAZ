@@ -25,16 +25,16 @@ Mi pasión por el diseño y el frontend es mi superpoder, ¡y estoy emocionado p
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
     <div style="border: 1px solid #ddd; padding: 20px;">
-        <h3>Proyecto 1</h3>
-        <p>Descripción breve del Proyecto 1.</p>
+        <h2>Gestor de productos</h2>
+        <p>Aplicación creada con html, css, tailwind y js, gestiona de manera fácil y sencilla los artículos de una tienda</p>
     </div>
     <div style="border: 1px solid #ddd; padding: 20px;">
-        <h3>Proyecto 2</h3>
-        <p>Descripción breve del Proyecto 2.</p>
+        <h3>Mi portafolio</h3>
+        <p>En desarrollo</p>
     </div>
     <div style="border: 1px solid #ddd; padding: 20px;">
-        <h3>Proyecto 3</h3>
-        <p>Descripción breve del Proyecto 3.</p>
+        <h3>Nebulon</h3>
+        <p>En desarrollo</p>
     </div>
 </div>
 
