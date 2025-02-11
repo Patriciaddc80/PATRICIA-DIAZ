@@ -3,13 +3,6 @@
      <h2>Web Developer | Diseñadora UX/UI</h2>
      ![Captura de pantalla 2025-02-10 110921](https://github.com/user-attachments/assets/195aadeb-95b0-44dd-b3e1-4a6feda65bf6)
 
-    
-<div align="center">
-    <img src="[https://github.com/Patriciaddc80/PATRICIA-DIAZ/assets/98458936/f886dd2c-62bd-4926-b883-bde1d5f9d567](https://productmanagerpat.vercel.app/)" 
-         alt="Administrador de productos" 
-         style="width: 50%;">
-</div>
-
 ## Quien soy
 
 Soy un desarrolladora web, apasionada por la tecnología con enfoque particular en el diseño frontend o el diseño de interfaz del usuario. 
