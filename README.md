@@ -25,7 +25,7 @@ Mi pasión por el diseño y el frontend es mi superpoder, ¡y estoy emocionado p
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
     <div style="border: 1px solid #ddd; padding: 20px;">
-        <h2>Gestor de productos</h2>
+        <h3>Gestor de productos</h3>
         <p>Aplicación creada con html, css, tailwind y js, gestiona de manera fácil y sencilla los artículos de una tienda</p>
     </div>
     <div style="border: 1px solid #ddd; padding: 20px;">
