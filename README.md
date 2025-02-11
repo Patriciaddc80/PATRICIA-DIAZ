@@ -1,9 +1,9 @@
 <div style="background-color: #f0f0f0; padding: 20px; text-align: center;">
     <h1>HOLA!👋 <br> Me llamo Patricia Díaz</h1>
      <h2>Web Developer | Diseñadora UX/UI</h2>
-  ![Captura de pantalla 2024-07-02 115501](https://github.com/user-attachments/assets/1ded882c-9408-447c-960c-d5a3e25295cd)
-
-
+    
+![Patricia Díaz - CV](https://github.com/Patriciaddc80/PATRICIA-DIAZ/assets/98458936/f886dd2c-62bd-4926-b883-bde1d5f9d567)
+    
 ## Quien soy
 
 Soy un desarrolladora web, apasionada por la tecnología con enfoque particular en el diseño frontend o el diseño de interfaz del usuario. 
@@ -57,15 +57,7 @@ Mi pasión por el diseño y el frontend es mi superpoder, ¡y estoy emocionada p
 ## Proyectos Destacados
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
-    <div style="border: 1px solid #ddd; padding: 20px;">
-        <h3>Administrador de productos</h3>
-        <p>Aplicación creada con html, css, tailwind y js, gestiona de manera fácil y sencilla los artículos de una tienda</p>
-        ![image](https://github.com/user-attachments/assets/3263d12f-497b-4780-b0fe-e9fd24c3d83c)
-
-  <img src="[https://github.com/Patriciaddc80/PATRICIA-DIAZ/assets/98458936/f886dd2c-62bd-4926-b883-bde1d5f9d567](https://productmanagerpat.vercel.app/)" 
-        alt="Administrador de productos" 
-         style="width: 50%;">
-    </div>
+ <div style="border: 1px sólido #ddd; relleno: 20px;"> <h3>Administrador de productos</h3> <p>Aplicación creada con HTML, CSS, Tailwind y JS, gestiona de manera fácil y sencilla los artículos de una tienda. </p> <!-- Imagen principal --> <a href="https://productmanagerpat.vercel.app/" target="_blank"> <img src="https://github.com/user-attachments/assets/3263d12f-497b-4780-b0fe-e9fd24c3d83c" alt="Administrador de productos" style="width: 50%; radio-borde: 8px;"> </a> </div>
     <div style="border: 1px solid #ddd; padding: 20px;">
         <h3>Mi portfolio</h3>
         <p>En desarrollo</p>
