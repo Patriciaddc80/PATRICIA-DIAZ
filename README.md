@@ -1,6 +1,6 @@
 <div style="background-color: #f0f0f0; padding: 20px; text-align: center;">
     <h1>HOLA!👋 <br> Me llamo Patricia Díaz</h1>
-     <h2>Web Developer | Diseñadora UX/UI</h2>
+     <h2>Frontend web developer| UX/UI Designer </h2>
     
 ![Patricia Díaz - CV](https://github.com/Patriciaddc80/PATRICIA-DIAZ/assets/98458936/f886dd2c-62bd-4926-b883-bde1d5f9d567)
     
