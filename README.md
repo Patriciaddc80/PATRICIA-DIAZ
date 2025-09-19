@@ -63,11 +63,12 @@ Mi pasión por el diseño y el frontend es mi superpoder, ¡y estoy emocionada p
         </a>
     </h4>
     <a href="https://rsvp-wedding-fawn.vercel.app/" target="_blank">
-        <img src="URL_DE_TU_IMAGEN" 
+        <img src="https://raw.githubusercontent.com/usuario/repositorio/main/images/weddingrsvp.png" 
              alt="Wedding with RSVP"
              style="width: 50%; border-radius: 8px; display: block; margin: 0 auto; transition: transform 0.3s ease;">
     </a>
 </div>
+
 
 <div style="border: 1px solid #ddd; padding: 20px; text-align: center; background-color: #f9f9f9; border-radius: 8px;">
     <h3 style="color: #2c3e50;">Administrador de productos</h3>
