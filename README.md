@@ -2,7 +2,7 @@
     <h1>HOLA!👋 <br> Me llamo Patricia Díaz</h1>
      <h2>Frontend web developer| UX/UI Designer </h2>
     
-![Patricia Díaz - CV](https://github.com/Patriciaddc80/PATRICIA-DIAZ/assets/98458936/f886dd2c-62bd-4926-b883-bde1d5f9d567)
+![Patricia Díaz - CV]([https://github.com/Patriciaddc80/PATRICIA-DIAZ/assets/98458936/f886dd2c-62bd-4926-b883-bde1d5f9d567](https://rsvp-wedding-fawn.vercel.app/))
     
 ## Quien soy
 
