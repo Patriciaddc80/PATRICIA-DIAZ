@@ -63,7 +63,7 @@ Mi pasión por el diseño y el frontend es mi superpoder, ¡y estoy emocionada p
         </a>
     </h4>
     <a href="https://rsvp-wedding-fawn.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/usuario/repositorio/main/images/weddingrsvp.png" 
+        <img src="https://raw.githubusercontent.com/usuario/repositorio/main/images/wedding-rsvp.png" 
              alt="Wedding with RSVP"
              style="width: 50%; border-radius: 8px; display: block; margin: 0 auto; transition: transform 0.3s ease;">
     </a>
