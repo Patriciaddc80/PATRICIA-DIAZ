@@ -60,7 +60,7 @@ Mi pasión por el diseño y el frontend es mi superpoder, ¡y estoy emocionada p
     <h3 style="color: #2c3e50;">RSVP-BODA</h3>
     <p style="color: #34495e;">Web para boda con confirmación de asistencia</p>
     <h4 style="color: #e74c3c;">[Haz click en la imagen](http://127.0.0.1:5500/mi-portfolio/images/project-rsvp.png)</h4>
-    <a href="https://productmanagerpat.vercel.app/" target="_blank">
+    <a href="[https://rsvp-wedding-fawn.vercel.app/](https://rsvp-wedding-fawn.vercel.app/)" target="_blank">
         <img src="https://github.com/user-attachments/assets/3263d12f-497b-4780-b0fe-e9fd24c3d83c" 
              alt="Administrador de productos" 
              style="width: 50%; border-radius: 8px; display: block; margin: 0 auto; transition: transform 0.3s ease;">
