@@ -57,13 +57,18 @@ Mi pasión por el diseño y el frontend es mi superpoder, ¡y estoy emocionada p
 <div style="border: 1px solid #ddd; padding: 20px; text-align: center; background-color: #f9f9f9; border-radius: 8px;">
     <h3 style="color: #2c3e50;">RSVP-BODA</h3>
     <p style="color: #34495e;">Web para boda con confirmación de asistencia</p>
-    <h4 style="color: #e74c3c;">[Haz click en la imagen](http://127.0.0.1:5500/mi-portfolio/images/project-rsvp.png)</h4>
-    <a href="[https://rsvp-wedding-fawn.vercel.app/](https://rsvp-wedding-fawn.vercel.app/)" target="_blank">
-        <img src="C:\Users\patri\OneDrive\Escritorio\weddingrsvp.png" 
-             alt="Wedding with RSVP" 
+    <h4 style="color: #e74c3c;">
+        <a href="https://rsvp-wedding-fawn.vercel.app/" target="_blank">
+            Haz click en la imagen
+        </a>
+    </h4>
+    <a href="https://rsvp-wedding-fawn.vercel.app/" target="_blank">
+        <img src="URL_DE_TU_IMAGEN" 
+             alt="Wedding with RSVP"
              style="width: 50%; border-radius: 8px; display: block; margin: 0 auto; transition: transform 0.3s ease;">
     </a>
 </div>
+
 <div style="border: 1px solid #ddd; padding: 20px; text-align: center; background-color: #f9f9f9; border-radius: 8px;">
     <h3 style="color: #2c3e50;">Administrador de productos</h3>
     <p style="color: #34495e;">Aplicación creada con HTML, CSS, Tailwind y JS, gestiona de manera fácil y sencilla los artículos de una tienda.</p>
