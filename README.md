@@ -1,6 +1,7 @@
 <div style="background-color: #f0f0f0; padding: 20px; text-align: center;">
     <h1>HOLA!👋 <br> Me llamo Patricia Díaz</h1>
-     <h2>Frontend web developer| UX/UI Designer </h2>    
+     <h2>Frontend web developer| UX/UI Designer </h2>
+    
 ## Quien soy
 
 Soy un desarrolladora web, apasionada por la tecnología con enfoque particular en el diseño frontend o el diseño de interfaz del usuario. 
