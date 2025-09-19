@@ -1,9 +1,6 @@
 <div style="background-color: #f0f0f0; padding: 20px; text-align: center;">
     <h1>HOLA!👋 <br> Me llamo Patricia Díaz</h1>
-     <h2>Frontend web developer| UX/UI Designer </h2>
-    
-![Patricia Díaz - CV]([https://github.com/Patriciaddc80/PATRICIA-DIAZ/assets/98458936/f886dd2c-62bd-4926-b883-bde1d5f9d567](https://rsvp-wedding-fawn.vercel.app/))
-    
+     <h2>Frontend web developer| UX/UI Designer </h2>    
 ## Quien soy
 
 Soy un desarrolladora web, apasionada por la tecnología con enfoque particular en el diseño frontend o el diseño de interfaz del usuario. 
@@ -61,8 +58,8 @@ Mi pasión por el diseño y el frontend es mi superpoder, ¡y estoy emocionada p
     <p style="color: #34495e;">Web para boda con confirmación de asistencia</p>
     <h4 style="color: #e74c3c;">[Haz click en la imagen](http://127.0.0.1:5500/mi-portfolio/images/project-rsvp.png)</h4>
     <a href="[https://rsvp-wedding-fawn.vercel.app/](https://rsvp-wedding-fawn.vercel.app/)" target="_blank">
-        <img src=""C:\Users\patri\OneDrive\Escritorio\wedding rsvp.png" 
-             alt="Administrador de productos" 
+        <img src="C:\Users\patri\OneDrive\Escritorio\weddingrsvp.png" 
+             alt="Wedding with RSVP" 
              style="width: 50%; border-radius: 8px; display: block; margin: 0 auto; transition: transform 0.3s ease;">
     </a>
 </div>
