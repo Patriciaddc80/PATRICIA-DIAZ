@@ -1,4 +1,4 @@
-# <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/0819a73b-e2b8-4029-ae6a-cd4e91634fc6" /> Patricia Diaz – Frontend Web Developer & UX/UI Designer
+# <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/0819a73b-e2b8-4029-ae6a-cd4e91634fc6" /> Patricia Diaz – Frontend Web Developer & UX/UI Designer
 
 Desarrolladora Frontend y UX/UI. Las tecnologias que mas suelo emplear con HTML, CSS, JavaScript, Vue.js y React con un enfoque muy claro en usabilidad, accesibilidad y conversión, para que cada proyecto no solo se vea bien, sino que funcione como una auténtica herramienta.
 
