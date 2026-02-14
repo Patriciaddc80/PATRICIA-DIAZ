@@ -1,159 +1,78 @@
-<div style="background-color: #f0f0f0; padding: 20px; text-align: center;">
-    <h1>HOLA!👋 <br> Me llamo Patricia Díaz</h1>
-     <h2>Frontend web developer| UX/UI Designer </h2>
-    
-## Quien soy
+# <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/0819a73b-e2b8-4029-ae6a-cd4e91634fc6" /> Patricia Diaz – Frontend Web Developer & UX/UI Designer
 
-Soy un desarrolladora web, apasionada por la tecnología con enfoque particular en el diseño frontend o el diseño de interfaz del usuario. 
-🎨 Mi misión es crear diseños que no solo sean bonitos 😍, también funcionales, fáciles de usar, limpios, que dejen un click en cada una de ellas de como hago mi trabajo y como me inspira lo que hago.
+Desarrolladora Frontend y UX/UI. Las tecnologias que mas suelo emplear con HTML, CSS, JavaScript, Vue.js y React con un enfoque muy claro en usabilidad, accesibilidad y conversión, para que cada proyecto no solo se vea bien, sino que funcione como una auténtica herramienta.
 
-Desde que comencé en este camino, me he sumergido dominando tecnologías como HTML, CSS y JavaScript. 💻 Disfruto al máximo transformando ideas creativas en productos web interactivos y accesibles. Siempre estoy buscando mejorar mis habilidades para brindar experiencias de usuario increíbles.
+He trabajado en proyectos como Suena tu Evento y BodaMedia, diseñando interfaces como landing page, optimizadas para SEO y con especial cuidado en la experiencia de usuario. Además, aporto una base sólida en marketing digital (SEO, email marketing, CRM) y gestión de contenidos, lo que me permite entender la web desde la parte técnica y también estratégica.
 
-Además de ser una ninja del frontend, tengo habilidades analíticas afiladas para resolver cualquier desafío. 🔍 Me encanta trabajar en equipos diversos donde puedo aprender y compartir conocimientos, a la vez trabajar de menera independiente.
-
-Sigo aprendiendo y manteniéndome al día con las últimas tendencias y creo firmemente en la importancia de la usabilidad y la accesibilidad en cada proyecto que abordo. Mi objetivo es superar los estándares de calidad y dejar a los usuarios con una sonrisa en la cara. 😄
-
-Mi pasión por el diseño y el frontend es mi superpoder, ¡y estoy emocionada por embarcarme en nuevos proyectos que desafíen mis habilidades y me permitan crecery colaborar como desarrollador! 🚀
-
----
-
-## 💼 Experiencia Profesional
-
-### **Gestor de Contenidos - Media Markt Saturn**
-**El Prat, Barcelona (2023)**
-- Creación y gestión de campañas de newsletters: contenido, segmentación y análisis.
-- Uso de SAP EMARSYS para automatización y optimización de email marketing.
-- Coordinación en equipo con CRM MONDAY para seguimiento de proyectos.
-
-### **Desarrolladora Web - Proyectos Propios**
-**Sant Pol de Mar, Barcelona (2022-2023)**
-- Mantenimiento y actualización de contenido.
-- Gestión autónoma del proyecto.
-
-### **Auxiliar Administrativa - Feeling Retail SL (Telecomunicaciones)**
-**Mataró, Barcelona (2018-2019)**
-- Coordinación de instalaciones y cancelaciones de fibra.
-- Actualización de bases de datos.
-- Programación de tareas técnicas.
-- Gestión y resolución de problemas.
-
-### **Auxiliar Administrativa - Sativa Jardiners**
-**Sant Pol de Mar, Barcelona (2017-2018)**
-- Actualización de bases de datos.
-- Planificación de tareas técnicas.
-- Gestión y resolución de problemas.
-
-### **Oficial de Negocios y Servicios Financieros - Banco Dominicano de Progreso**
-**Santo Domingo, República Dominicana (1999-2005)**
-- Apertura y cierre de productos financieros.
-- Atención a clientes tanto en persona como a través de medios telemáticos.
-- Registro de transacciones diarias y preparación de informes financieros.
-
----
+Busco colaborar con empresas y profesionales del ambito, creando experiencias online memorables y orientadas a resultados.
 
 
-## Proyectos Destacados
+## 🌐 Portfolio y alginos de mis trabajos
 
-<div style="border: 1px solid #ddd; padding: 20px; text-align: center; background-color: #f9f9f9; border-radius: 8px;">
-    <h3 style="color: #2c3e50;">RSVP-BODA</h3>
-    <p style="color: #34495e;">Web para boda con confirmación de asistencia</p>
-    <h4 style="color: #e74c3c;">
-        <a href="https://rsvp-wedding-fawn.vercel.app/" target="_blank">
-            Haz click en la imagen
-        </a>
-    </h4>
-    <a href="https://rsvp-wedding-fawn.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/usuario/repositorio/main/images/wedding-rsvp.png" 
-             alt="Wedding with RSVP"
-             style="width: 50%; border-radius: 8px; display: block; margin: 0 auto; transition: transform 0.3s ease;">
-    </a>
-</div>
+- Sitio web personal: https://patriciadiaz.dev  
+- Suena tu Evento (plataforma para Wedding Planners): https://suenatuevento.vercel.app  
+- Plataforma para agencias y proveedores de eventos y bodas: https://bodasmedia.com  
+
+## 💼 Experiencia profesional
+
+### 2026 · Frontend Web Developer – Sueña tu Evento
+https://suenatuevento.vercel.app  
+
+- Desarrollo de plataforma web landing page para Wedding Planners en España.  
+- Implementación de interfaz responsive desplegada en Vercel, optimizada para profesional del sector nupcial.
+
+### 2025 · Desarrollo de interfaces web para servicios digitales al sector nupcial
+https://bodasmedia.com  
+
+- Confección web para profesionales del sector bodas, con enfoque en UX/UI y conversiones.  
+- Creación de una interfaz modular y escalable que permite variar contenidos y estrategias según el tipo de proveedor.  
+- Optimización de rendimiento, tiempos de carga y posicionamiento SEO on-page.
+
+### 2023–2024 · Portfolio Web landing page
+https://patriciadiaz.dev  
+
+- Diseño y maquetación de portfolio con estilo limpio y minimalista.  
+- Integración de proyectos destacados desarrollados con HTML, CSS, JavaScript, Vue.js, React y Node.js.  
+
+### 2022–2024 · Gestora de contenidos y perf. marketing – MediaMarkt Saturn, BCN
+https://www.mediamarkt.es  
+
+- Gestión de contenidos digitales para campañas online.  
+- Coordinación de proyectos con CRM Monday y herramientas de marketing digital.
+
+### 2018–2019 · Auxiliar administrativa – Feeling Retail SL (Telecomunicaciones), BCN  
+
+- Gestión de bases de datos, automatización de procesos y resolución de incidencias.  
+
+## 🛠 Habilidades técnicas
+
+- HTML, CSS3, JavaScript, Vue.js, React, Node.js  
+- Frameworks y librerías: Bootstrap, Tailwind CSS, MUI  
+- Control de versiones: Git, GitHub  
+- CMS: WordPress, PrestaShop, Webflow  
+- Diseño y prototipado UX/UI con Figma  
+- Testing y gestión de proyectos con Jira  
+- Marketing digital: SEO on-page, Email Marketing (SAP Emarsys)  
+- Bases de datos: SQL Server  
+
+## 🤝 Habilidades blandas
+
+- Adaptabilidad y creatividad  
+- Resolución de problemas  
+- Proactividad y gestión de incidencias  
+- Trabajo en equipo y orientación a resultados  
+
+## 🎓 Educación
+
+- Google Specialization – Coursera · Diseño UX/UI (Certificado profesional)  
+- IBM – Udemy · Máster en SQL Server (Certificado profesional)  
+- CODEOP, Barcelona · Front End Web Developer con Vue.js  
+- Universidad Tecnocampus, Mataró · Front End Web Developer con React  
+- Bit Academy By Netmind, Barcelona · Desarrollo de Aplicaciones Web – Fullstack  
+- Training Tutor Mataró Formación, Barcelona · Confección y Publicación de Páginas Web  
+- Mataró, Barcelona · WordPress y PrestaShop  
 
 
-<div style="border: 1px solid #ddd; padding: 20px; text-align: center; background-color: #f9f9f9; border-radius: 8px;">
-    <h3 style="color: #2c3e50;">Administrador de productos</h3>
-    <p style="color: #34495e;">Aplicación creada con HTML, CSS, Tailwind y JS, gestiona de manera fácil y sencilla los artículos de una tienda.</p>
-    <h4 style="color: #e74c3c;">Haz click en la imagen</h4>
-    <a href="https://productmanagerpat.vercel.app/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/3263d12f-497b-4780-b0fe-e9fd24c3d83c" 
-             alt="Administrador de productos" 
-             style="width: 50%; border-radius: 8px; display: block; margin: 0 auto; transition: transform 0.3s ease;">
-    </a>
-</div>
-    <div style="border: 1px solid #ddd; padding: 20px;">
-        <h3>RSVP-BODA</h3>
-        <p>Web para boda con confirmación de asistencia</p>
-    </div>
-    <div style="border: 1px solid #ddd; padding: 20px;">
-        <h3>Nebulon</h3>
-        <p>En desarrollo</p>
-    </div>
-</div>
-
----
-
-## 🛠️ Competencias
-
-### **Desarrollo Web**
-- HTML5, CSS3, JavaScript, React, Vue.js, Node.js
-
-### **Frameworks**
-- Bootstrap, Tailwind CSS, MUI
-
-### **Control de Versiones**
-- Git, GitHub
-
-### **Diseño y Edición**
-- Figma
-
-### **Gestión y CMS**
-- Jira, npm, PrestaShop, WordPress
-
----
-
-## 🌍 Idiomas
-- **Español:** Nativo
-- **Inglés:** Intermedio
-- **Catalán:** Básico
-
----
-
-## 🎓 Formación
-
-- **Diseño de Experiencia de Usuario (UX)**  
-  Certificado Profesional - Google Specialization (Coursera) *(Actual)*
-
-- **Master en SQL Server: Desde Nivel Básico a Profesional**  
-  Certificado Profesional - IBM (Udemy)
-
-- **Front End Web Developer con Vue.js**  
-  Certificado de Logro - CodeOp, Barcelona *(2024)*
-
-- **Front End Web Developer con React**  
-  Certificado de Logro - Universidad TecnoCampus, Mataró, BCN *(2023)*
-
-- **Desarrollo de Aplicaciones con Tecnología Web**  
-  Certificado de Profesionalidad Nivel III (Fullstack) - Bit Academy by Netmind, Barcelona *(2022)*
-
-- **Confección y Publicación de Páginas Web**  
-  Certificado de Profesionalidad Nivel I - Training Tutor Mataró, Barcelona *(2021)*
-
-- **WordPress y PrestaShop**  
-  Centro: Mataró, Barcelona *(2021)*
-
-- **SEO y SEM, Posicionamiento en Buscadores**  
-  Marketing Digital y Posicionamiento Web (Básico, 60h) - IDFO, Barcelona *(2020)*
-
----
-
-## ✨ Habilidades Personales
-- Capacidad para priorizar tareas
-- Adaptación y creatividad
-- Afán de superación e iniciativa
-- Perfil polivalente y versátil
-
----
-  
 ## Certificaciones
 
 <table>
@@ -178,10 +97,17 @@ Mi pasión por el diseño y el frontend es mi superpoder, ¡y estoy emocionada p
 ---
 
 ## 📌 Contacto
+- 🌐 https://patriciadiaz.vercel.app  
+- 📧 [patriciaddc80@gmail.com](mailto:patriciaddc80@gmail.com)
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/187880eb-566c-4891-9702-0da6917595f7" /> [My Linkedin](https://linkedin.com/in/patriciadiaz)
 - 📞 **Teléfono:** +34 698 222 944
-- 📧 **Email:** [patriciaddc80@gmail.com](mailto:patriciaddc80@gmail.com)
-- 🌐 **LinkedIn:** [linkedin.com/in/patriciadiaz](https://linkedin.com/in/patriciadiaz)
 - 📍 **Ubicación:** Sant Pol de Mar, BCN
 
----
+
+
+
+
+
+
+
 # 🌟¡Gracias por visitar mi perfil!🌟
